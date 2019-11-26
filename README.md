@@ -1,5 +1,4 @@
-# Аналог t.me через github pages
+Аналог t.me через github pages
+Просто замените https://t.me/ на https://tu2ru2.github.io/
 
-Просто замените https://t.me/ на https://tgrm.github.io/
-
-Должно получиться что-то в стиле https://tgrm.github.io/taraflex
+Должно получиться что-то в стиле https://tu2ru2.github.io/tutu4ebnik
